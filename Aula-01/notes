@@ -1,0 +1,21 @@
+- Algoritmo -
+
+O que é um Algoritmo?
+   1- Os algoritmos controlam tudo. são um conjunto de passos, que depois de feitos, resolvem um determinado problema.
+   2- Toda reprodução de padrões é conhecido como rotina.
+      rotina é algo que está ligado ao nosso dia-a-dia, por exemplo, atravessar a rua, isso também é um algoritmo. ex:
+         Algoritmo AtravessarRua
+            Olhar para a direita
+            Olhar para a esquerda
+            Se estiver vindo carro
+               Não atravessar
+            Senão
+               Atravessar
+            Fim-Se
+         Fim-Algoritmo
+
+O que é um algoritmo computacional?
+   São passos a serem seguidos por um 'módulo processador' e seus respectivos 'usuários' que, executados na ordem certa, conseguem 'realizar' uma determinada 'tarefa'.
+      'módulo processador' - tudo aquilo que pode efetuar um processamento, ou seja, tudo aquilo que pode ser programável;
+      'usuários' - pessoas que comandam os aparelhos processadores;
+
